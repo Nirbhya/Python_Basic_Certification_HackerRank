@@ -1,4 +1,5 @@
 //Python Average Function
+// This program is written by Nirbhay Kaushik
 
 
 def avg(*args):
